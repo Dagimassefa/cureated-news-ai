@@ -27,7 +27,7 @@ Automated content research and curation system for digital marketers. Aggregates
 ### Installation
 
 ```bash
-git clone https://github.com/Dagimassefa/news-curate-ai.git
+git clone [https://github.com/Dagimassefa/news-curate-ai.git](https://github.com/Dagimassefa/cureated-news-ai.git)
 cd newscurate-ai
 npm install
 
